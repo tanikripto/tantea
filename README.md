@@ -1,2 +1,2 @@
-# tantea
+# tan
 tea tani project
